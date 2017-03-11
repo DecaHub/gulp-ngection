@@ -1,0 +1,32 @@
+{
+  "name": "gulp-ngection",
+  "version": "1.0.0",
+  "description": "source generator for angular projects using gulp as task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DecaHub/ngsource"
+  },
+  "keywords": [
+    "angular",
+    "injector",
+    "angular",
+    "source",
+    "angular",
+    "gulp-inject"
+  ],
+  "author": "DecaHub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DecaHub/gulp-ngection/issues"
+  },
+  "homepage": "https://github.com/DecaHub/gulp-ngection#readme",
+  "devDependencies": {
+    "bootstrap-logs": "^1.0.2",
+    "is": "^3.2.1",
+    "ngfinder": "^1.0.0"
+  }
+}
