@@ -1,6 +1,6 @@
 {
   "name": "ngsource",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "source generator for angular projects using gulp as task runner",
   "main": "index.js",
   "scripts": {
