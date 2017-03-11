@@ -24,7 +24,7 @@
     "url": "https://github.com/DecaHub/gulp-ngection/issues"
   },
   "homepage": "https://github.com/DecaHub/gulp-ngection#readme",
-  "devDependencies": {
+  "dependencies": {
     "bootstrap-logs": "^1.0.2",
     "is": "^3.2.1",
     "ngfinder": "^1.0.0"
