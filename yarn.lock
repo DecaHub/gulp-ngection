@@ -10,7 +10,7 @@ ansi-styles@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-2.2.1.tgz#b432dd3358b634cf75e1e4664368240533c1ddbe"
 
-bootstrap-logs@^1.0.2:
+bootstrap-logs@^1.0.0, bootstrap-logs@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/bootstrap-logs/-/bootstrap-logs-1.0.2.tgz#bd085987eb5136926913e7bbd10273fbdb0fbc9f"
   dependencies:
@@ -40,9 +40,13 @@ is@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/is/-/is-3.2.1.tgz#d0ac2ad55eb7b0bec926a5266f6c662aaa83dca5"
 
-ngfinder@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/ngfinder/-/ngfinder-1.0.0.tgz#481363425f85beea91f27a7a7d4879d684d8e2ed"
+ngfinder@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/ngfinder/-/ngfinder-2.0.3.tgz#aaec333219b91e24e09a42a1cf34af3e059b5c4f"
+  dependencies:
+    bootstrap-logs "^1.0.0"
+    chalk "^1.1.3"
+    is "^3.2.1"
 
 strip-ansi@^3.0.0:
   version "3.0.1"
